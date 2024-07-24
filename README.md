@@ -55,7 +55,3 @@ To engage with this analysis:
 ## Contributing
 
 Contributions to further this analysis are welcome. If you have improvements or new insights, please fork the repository and submit a pull request with your changes. For substantial changes, consider opening an issue first to discuss your ideas.
-
----
-
-Feel free to make any additional adjustments or let me know if there are any other details you'd like to include!
