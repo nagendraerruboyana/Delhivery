@@ -1,7 +1,3 @@
-Understood. Here's the revised README file, reflecting that the dataset is sourced from Kaggle:
-
----
-
 # Delhivery Logistics Data Analysis
 
 ## Overview
